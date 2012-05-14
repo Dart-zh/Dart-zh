@@ -1,4 +1,4 @@
 Dart-zh
 =======
 
-A dartlang Chinese translation.
+A Dartlang Chinese translation.
